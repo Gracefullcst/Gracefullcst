@@ -1,18 +1,22 @@
-# Hi there 👋 You've now met the solution-focused Data Analyst!
+# Hi there 👋 You've now met **JohnBosco Obi**, the solution-focused Data Analyst!
 
 ## 🌟 Simply Me
-  - A data analyst focusing on transforming raw data into workable business strategies and smarter decisions. 
--- Competently proficient in SQL and Excel
--- Creating insightful visualizations in Power BI and Tableau
--- Currently advancing in more complex data analysis techniques, while exploring the realms of sales & finance, health, and logistics.
+  - A data analyst focusing on transforming raw data into **workable** business strategies and **smarter** decisions. 
+  - Currently advancing in more complex data analysis techniques, while exploring the realms of sales & finance, health, and logistics.
+
+## 🔧 Skills & Tools
+ - **Data Analysis:** SQL, Excel, SPSS
+ - **Data Visualization:** Tableau, Power BI, Google Looker Studio
+ - **Data Modeling:** Excel, Power BI
+ - **Statistical Analysis:** Correlation analysis, Time Series Analysis
 
 ## 🚀 Projects
 ### [Property Valuation Financial Model and Analysis](https://github.com/Gracefullcst/Property_Valuation_Financial_Model)
 ![InvEstate Screenshot](https://github.com/Gracefullcst/Property_Valuation_Financial_Model/blob/main/InvEstate.jpg)
 
-### [Customer Churn Analysis]https://github.com/Gracefullcst/Customer_Churn_Analysis
+### [Customer Churn Analysis](https://github.com/Gracefullcst/Customer_Churn_Analysis)
 
-### [Supermarket Sales Analysis]https://github.com/Gracefullcst/Supermarket_Sales_Analysis
+### [Supermarket Sales Analysis](https://github.com/Gracefullcst/Supermarket_Sales_Analysis)
 
 <!--
 **Gracefullcst/Gracefullcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,20 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi there! 👋 I’m SUZAN
-## 🌟 About Me
- - 🎓 **Master's in Economics**
- - 📊 **Data Analyst** with a focus on data cleaning, statistical analysis, and visualization using Python, SQL, and Tableau.
- - I’m passionate about uncovering insights from data to support decision-making and create value for businesses. Currently exploring advanced visualization techniques and deep-diving into data analytics projects in **finance, customer churn,** and **content strategy**.
-
-## 🔧 Skills & Tools
- - **Data Analysis:** Python (Pandas, NumPy), SQL, Excel
- - **Data Visualization:** Tableau, Matplotlib, Seaborn
- - **Statistical Analysis:** Correlation analysis, Time Series Analysis
-
-
-
 
 ## 🚀 Projects
 ### [💸 Inflation Rate Analysis](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria)
