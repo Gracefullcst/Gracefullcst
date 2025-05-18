@@ -12,11 +12,13 @@
 
 ## 🚀 Projects
 ### [Property Valuation Financial Model and Analysis](https://github.com/Gracefullcst/Property_Valuation_Financial_Model)
-![InvEstate Screenshot](https://github.com/Gracefullcst/Property_Valuation_Financial_Model/blob/main/InvEstate.jpg)
+Led financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
 
 ### [Customer Churn Analysis](https://github.com/Gracefullcst/Customer_Churn_Analysis)
+Performed customer segmentation, identified patterns in churn behavior, and recommended strategies for customer retention based on analysis of the business data.
 
 ### [Supermarket Sales Analysis](https://github.com/Gracefullcst/Supermarket_Sales_Analysis)
+Uncovered key sales trends and made smart data-driven recommendations for revenue improvement by analyzing supermarket data across time periods, customer profiles, product types, and categories.
 
 <!--
 **Gracefullcst/Gracefullcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,24 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Projects
-### [💸 Inflation Rate Analysis](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria)
-Analyzed the inflation rate in Nigeria for over a decade to identify factors affecting price increases and their impact on the economy.
-
-### [📈Customer Churn Analysis](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria)
-Analyzed customer data to identify patterns in churn behavior and recommended strategies for retention.
-
-### [🎬 Netflix Content Analysis](https://github.com/KENE508/Netflix-Content-Strategy-Project)
-Explored Netflix’s content distribution to support content strategy with insights on genre popularity and viewership trends.
-
-
-
-
-## 📫 Connect with Me
- - **Email:** kcity.so@gmail.com
- - **LinkedIn:** [Suzan Osakwe](https://www.linkedin.com/in/suzanosakwe/).
-
-<!---
-KENE508/KENE508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect With Me
+ - **Email:** obijohnbosco0021@gmail.com
+ - **LinkedIn:** [JohnBosco Obi](https://www.linkedin.com/in/johnbosco-jb-obi)
