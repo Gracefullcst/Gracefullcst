@@ -12,7 +12,7 @@
 
 ## 🚀 Projects
 ### [• Property Valuation Financial Model and Analysis](https://github.com/Gracefullcst/Property_Valuation_Financial_Model)
-Led financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
+Led a financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
 
 ### [•  Customer Churn Analysis](https://github.com/Gracefullcst/Customer_Churn_Analysis)
 Performed customer segmentation, identified patterns in churn behavior, and recommended strategies for customer retention based on analysis of the business data.
