@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 -->
 
 ## 🤝 Connect With Me
- - **Email:** obijohnbosco0021@gmail.com
- - **LinkedIn:** [JohnBosco Obi](https://www.linkedin.com/in/johnbosco-jb-obi)
+ - **Send me an Email:** obijohnbosco0021@gmail.com
+ - **LinkedIn:** [..just take a short peek. I know you want to](https://www.linkedin.com/in/johnbosco-jb-obi)
