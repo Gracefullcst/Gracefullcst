@@ -11,6 +11,7 @@
  - **Statistical Analysis:** Correlation analysis, Time Series Analysis
 
 ## 🚀 Projects
+###
   - [Property Valuation Financial Model and Analysis](https://github.com/Gracefullcst/Property_Valuation_Financial_Model)
 Led financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
 
