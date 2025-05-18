@@ -1,4 +1,4 @@
-# Hi there 👋 You've now met **JohnBosco Obi**, the solution-focused Data Analyst!
+# You've now met **JohnBosco Obi**, the solution-focused Data Analyst! ⚡️
 
 ## 🌟 Simply Me
   - A data analyst focusing on transforming raw data into **workable** business strategies and **smarter** decisions. 
