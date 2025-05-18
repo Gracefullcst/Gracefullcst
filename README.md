@@ -5,10 +5,10 @@
   - Currently advancing in more complex data analysis techniques, while exploring the realms of sales & finance, health, and logistics.
 
 ## 🔧 Skills & Tools
- - **Data Analysis:** SQL, Excel, SPSS
- - **Data Visualization:** Tableau, Power BI, Google Looker Studio
- - **Data Modeling:** Excel, Power BI
- - **Statistical Analysis:** Correlation analysis, Time Series Analysis
+ - Data Analysis: SQL, Excel, SPSS
+ - Data Visualization: Tableau, Power BI, Google Looker Studio
+ - Data Modeling: Excel, Power BI
+ - Statistical Analysis: Correlation analysis, Time Series Analysis
 
 ## 🚀 Projects
 ### [• Property Valuation Financial Model and Analysis](https://github.com/Gracefullcst/Property_Valuation_Financial_Model)
