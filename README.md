@@ -1,4 +1,4 @@
-# You've now met **JohnBosco Obi**, the solution-focused Data Analyst! ⚡️
+# You've now met JohnBosco Obi, the solution-focused Data Analyst!⚡️
 
 ## 🌟 Simply Me
   - A data analyst focusing on transforming raw data into **workable** business strategies and **smarter** decisions. 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
  - **Email:** obijohnbosco0021@gmail.com
  - **LinkedIn:** [JohnBosco Obi](https://www.linkedin.com/in/johnbosco-jb-obi)
