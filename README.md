@@ -1,7 +1,7 @@
 # You've now met JohnBosco Obi, the solution-driven Data Analyst!⚡
 
 ## 🌟 Simply Me
-  - A data analyst focusing on transforming raw data into **workable** business strategies and **smarter** decisions. 
+  - A data analyst focusing on transforming raw data into **workable** intelligence, to propel **smarter** business strategies and  decisions. 
   - Currently advancing in more complex data analysis techniques, while exploring the realms of sales & finance, health, and logistics.
 
 ## 🔧 Skills & Tools
