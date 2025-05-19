@@ -14,7 +14,7 @@
 ### [• Property Valuation Financial Model and Analysis](https://github.com/JB-Obi/Property_Valuation_Financial_Model)
 Led a financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
 
-### [•  Customer Churn Analysis](https://github.com/JB-Obi/Customer_Churn_Analysis)
+### [•  Customer Churn Analysis and Retention Strategies](https://github.com/JB-Obi/Customer_Churn_Analysis)
 Performed customer segmentation, identified patterns in churn behavior, and recommended retention strategies based on data analysis and core business intelligence principles.
 
 ### [• Industrial Equipment Sales Analysis for Revenue Growth](https://github.com/JB-Obi/Industrial_Equipment_Sales_Analysis)
