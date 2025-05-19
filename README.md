@@ -15,7 +15,7 @@
 Led a financial valuation and comparative investment analysis for two real estate assets using a custom-built financial model, successfully identifying the more profitable asset, and enabling data-driven investment decisions by applying key metrics like Return on Investment (ROI), Present Value (PV), Net Present Value (NPV), Future Value (FV), benchmark rate, and Internal Rate of Return (IRR). 
 
 ### [•  Customer Churn Analysis to Develop Retention Strategies](https://github.com/JB-Obi/Customer_Churn_Analysis)
-Performed customer segmentation, identified patterns in churn behavior, and recommended retention strategies based on data analysis and core business intelligence principles.
+Performed customer segmentation, identified patterns in churn behavior, and developed retention strategies based on data analysis and core business intelligence principles.
 
 ### [• Industrial Equipment Sales Analysis to Achieve Revenue Growth](https://github.com/JB-Obi/Industrial_Equipment_Sales_Analysis)
 Used SQL to deeply analyze sales data by product, category, sales patterns, and customer loyalty—extracting insights that shaped smart, data-backed strategies for boosting revenue growth.
