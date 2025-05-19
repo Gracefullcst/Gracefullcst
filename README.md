@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ## 🤝 Connect With Me
  - **Send me an Email:** obijohnbosco0021@gmail.com
  - **LinkedIn (JohnBosco Obi):** [...just take a short peek. I know you want to](https://www.linkedin.com/in/johnbosco-jb-obi)
+ - Portfolio: [My Data Portfolio](https://github.com/JB-Obi/Data_Analysis_Portfolio)
