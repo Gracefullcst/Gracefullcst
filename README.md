@@ -17,7 +17,7 @@ Led a financial valuation and comparative investment analysis for two real estat
 ### [•  Customer Churn Analysis](https://github.com/JB-Obi/Customer_Churn_Analysis)
 Performed customer segmentation, identified patterns in churn behavior, and recommended retention strategies based on data analysis and core business intelligence principles.
 
-### [• Industrial Equipment Sales Analysis for Revenue Growth](https://github.com/JB-Obi/Industrial_Equipment_Sales_Analysis))
+### [• Industrial Equipment Sales Analysis for Revenue Growth](https://github.com/JB-Obi/Industrial_Equipment_Sales_Analysis)
 Used SQL to deeply analyze sales data by product, category, sales patterns, and customer loyalty—extracting insights that shaped smart, data-backed strategies for boosting revenue growth.
 
 <!--
